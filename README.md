@@ -109,4 +109,4 @@ Skincare/
 
 ## 📄 License
 
-MIT © [Astha Bharti](https://github.com/astha9900)
+MIT © [Aditya Kumar Mehta](https://github.com/aditya9900)
