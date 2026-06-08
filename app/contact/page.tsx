@@ -16,12 +16,12 @@ export default function ContactPage() {
             <a href="mailto:singhastha614@gmail.com" className="rounded-lg border p-5 transition-colors hover:border-brand-primary hover:bg-brand-primary/5">
               <Mail className="h-5 w-5 text-brand-primary" />
               <h2 className="mt-4 font-semibold">Email</h2>
-              <p className="mt-1 text-sm text-muted-foreground">singhastha614@gmail.com</p>
+              <p className="mt-1 text-sm text-muted-foreground">adityarajmth845417@gmail.com</p>
             </a>
             <a href="tel:+919661644321" className="rounded-lg border p-5 transition-colors hover:border-brand-primary hover:bg-brand-primary/5">
               <Phone className="h-5 w-5 text-brand-primary" />
               <h2 className="mt-4 font-semibold">Phone</h2>
-              <p className="mt-1 text-sm text-muted-foreground">+91 9661644321</p>
+              <p className="mt-1 text-sm text-muted-foreground">+91 7779840590</p>
             </a>
             <div className="rounded-lg border p-5">
               <MapPin className="h-5 w-5 text-brand-primary" />
